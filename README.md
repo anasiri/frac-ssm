@@ -1,5 +1,7 @@
 # Fractional State Space Transition for Long Sequence Modeling
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.36314-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.36314)
+
 This repository is the official implementation of the paper **Fractional State Space Transition for Long Sequence Modeling**, accepted to **NeurIPS 2026 (Oral)**. 
 
 
