@@ -46,11 +46,13 @@ This project is released under the [Apache License 2.0](LICENSE).
 If you use FRAC in your work, please cite the following paper.
 
 ```bibtex
-@article{kobyzev2026fractional,
-  title   = {Fractional State Space Transition for Long Sequence Modeling},
-  author  = {Kobyzev, Ivan and Ghaddar, Abbas and Nasiri-Sarvi, Ali and Shang, Lifeng and Cui, Yufei},
-  journal = {arXiv preprint arXiv:2609.36314},
-  year    = {2026}
+@inproceedings{
+kobyzev2026fractional,
+title={Fractional State Space Transition for Long Sequence Modeling},
+author={Ivan Kobyzev and Abbas Ghaddar and Ali Nasiri-Sarvi and Lifeng Shang and Yufei Cui},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=i6ZEbxGeKu}
 }
 ```
 
